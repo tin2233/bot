@@ -90,4 +90,4 @@ async def on_message(message):
 
 
 # TOKEN 在 Discord Developer 的「BOT」頁取得
-client.run('OTM5NTA4MTEzODM5NjQ0Nzcy.Yf53HQ.0jKHyL-qSGxNcRAw97wsEaeBHz4')
+client.run('discord token')
